@@ -1,5 +1,5 @@
 # LeetCode_MyList
-A selection of problems that I actually enjoyed solving. Go through this repo to learn more.
+A selection of problems that I actually enjoyed solving. Do check out the problems and their solutions to learn more.
 More oftener than not I will use Python.
 <br>
 Go checkout my LeetCode Profile as well:
