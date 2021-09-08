@@ -4,5 +4,5 @@ More oftener than not I will use Python.
 <br>
 Go checkout my LeetCode Profile as well:
 <br>
-<a href="https://leetcode.com/user9927Mm/">Click Here</a>
+<a href="https://leetcode.com/user9927Mm/">Click Here to View</a>
 
